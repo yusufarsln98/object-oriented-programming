@@ -1,0 +1,6 @@
+[submodule "peg-solitaire-game"]
+	path = peg-solitaire-game
+	url = https://github.com/yusufarsln98/peg-solitaire-game
+[submodule "judiciary-informatics-system"]
+	path = judiciary-informatics-system
+	url = https://github.com/yusufarsln98/judiciary-informatics-system
